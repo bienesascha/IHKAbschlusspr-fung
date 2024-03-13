@@ -3,6 +3,11 @@ IHK Abschlussprüfung Elektroniker/-in für Geräte und Systeme Teil1 - Frühjah
 
 Hauptsächlich zum löten üben gedacht!
 
+JSON Datei zum Import in den [EasyEDA.com ](https://easyeda.com/editor) Editor. Danach einfach über das Menü "Fabrizieren" , d.h. Herstellen lassen bei JLCPCB.com. 10 Stück haben bei mit 5 € gekostet, plus ca 18€ Versand und Steuern... 
+ACHTUNG hin und wieder gibt es Aktionen, bei denen es Versandrabatt oder Rabatt durch das Nutzen von EasyEDA gibt. 
+
+
+
 Ohne Funktionsgarantie! Es ist nach bestem Wissen erstellt worden, aber bislang nicht geprüft.
 
 Schaltplan nicht normgerecht!
